@@ -2,6 +2,8 @@ import cv2, PySimpleGUI as sg
 import numpy as np
 from plyer import notification
 
+### Projeto da matéria de Ambiência
+
 
 CIRCLE = '⚫'
 CIRCLE_OUTLINE = '⚪'
